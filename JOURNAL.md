@@ -1,6 +1,6 @@
 ---
 title: "Very Cool Latch D"
-github: ""
+github: "https://github.com/Gabinan890/Latch-D-with-BJT"
 description: "A simple Lacth D very cool and absolutely useless built with some BJT transistor :),\na Latch D it a single memory cell of 1 bit  in particular the lacth D is the most simple element of memorization."
 created_at: "2026-10-25"
 total_time: "5h"
